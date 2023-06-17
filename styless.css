@@ -1,0 +1,30 @@
+body {
+  background-image: url("imagenes/logo3.jpg");
+  background-repeat: no-repeat;
+  background-size: 110% 110%;
+}
+
+
+img {
+    max-width: 400px;
+}
+
+  .horizontal-container {
+    text-align: center;
+  }
+  
+
+  .restaurant-list {
+    list-style-type: none;
+    padding: 0;
+  }
+
+  .restaurant-list li {
+    margin-bottom: 20px;
+  }
+
+  .restaurant-list img {
+    max-width: 200px;
+    height: auto;
+  }
+
